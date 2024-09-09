@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm payletmeena</h1>
 <h3 align="center">A passionate software Developer Engineer from India</h3>
-<img src="https://i.gifer.com/Mr3W.gif"width="" align="">
+<img src="https://i.gifer.com/Mr3W.gif"width="400px" align="right">
 - 🌱 I’m currently learning **full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
